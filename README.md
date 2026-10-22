@@ -70,37 +70,7 @@ I enjoy working across the frontend and backend, turning ideas into practical di
 
 ---
 
-## 🚀 Featured Projects
 
-### 01. ApplyDock — Job Application Tracker
-
-A web application designed to help users organize job applications and track their job-search progress.
-
-- 🔗 **Live Demo:** [applydock.vercel.app](https://applydock.vercel.app/)
-- 🧰 **Tech Stack:** Next.js, PostgreSQL, Supabase, Drizzle ORM
-
-### 02. MediCare Connect — Healthcare Management
-
-A full-stack healthcare application for doctor discovery, appointment booking, and appointment management.
-
-- 🔗 **Live Demo:** [medicare-client-a10.vercel.app](https://medicare-client-a10.vercel.app/)
-- 💻 **Source Code:** [medicare-clientA10](https://github.com/ShahriarALshihab/medicare-clientA10)
-- 🧰 **Tech Stack:** Next.js, React, Node.js, Express.js, MongoDB, Firebase Authentication, JWT
-
-### 03. SunCart — E-commerce Application
-
-A summer-inspired e-commerce application featuring products such as sunglasses, clothing, skincare, and beach accessories.
-
-- 🔗 **Live Demo:** [sun-cart-ph-8req.vercel.app](https://sun-cart-ph-8req.vercel.app/)
-- 💻 **Source Code:** [sunCartPH](https://github.com/ShahriarALshihab/sunCartPH)
-
-### 🌐 Personal Portfolio
-
-Explore my portfolio to learn more about my skills, projects, and development journey.
-
-**[Visit My Portfolio →](https://shihab-s-portfolio.vercel.app/)**
-
----
 
 ## 📊 GitHub Statistics
 
